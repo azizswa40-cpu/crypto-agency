@@ -6,13 +6,13 @@ load_dotenv()
 # MODE SÉCURISÉ — Aucun trade automatique
 # ============================================================
 DRY_RUN = True
-SIGNAL_ONLY_MODE = True  # GELÉ
+SIGNAL_ONLY_MODE = True
 FORCE_TEST_TRADE = False      # DÉSACTIVÉ — c'était le bug principal
 
 # ============================================================
 # STRATÉGIE
 # ============================================================
-STRATEGY_SYMBOLS = []  # GELÉ
+STRATEGY_SYMBOLS = []
 STRATEGY_INTERVAL = "1D"
 CANDLE_LIMIT = 400
 EMA_FAST = 50
