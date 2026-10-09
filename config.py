@@ -5,14 +5,14 @@ load_dotenv()
 # ============================================================
 # MODE SÉCURISÉ — Aucun trade automatique
 # ============================================================
-DRY_RUN = True                # NE JAMAIS passer à False sans validation manuelle
-SIGNAL_ONLY_MODE = True       # Le bot détecte et ALERTE seulement, n'exécute rien
+DRY_RUN = True
+SIGNAL_ONLY_MODE = True  # GELÉ
 FORCE_TEST_TRADE = False      # DÉSACTIVÉ — c'était le bug principal
 
 # ============================================================
 # STRATÉGIE
 # ============================================================
-STRATEGY_SYMBOLS = ["BTCUSDT"]   # BTC uniquement (pas ETH/SOL pour l'instant)
+STRATEGY_SYMBOLS = []  # GELÉ
 STRATEGY_INTERVAL = "1D"
 CANDLE_LIMIT = 400
 EMA_FAST = 50
