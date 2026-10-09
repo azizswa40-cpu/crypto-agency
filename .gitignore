@@ -1,0 +1,25 @@
+# Secrets
+.env
+.env.backup
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs et DB (ne JAMAIS tracker)
+logs/
+!logs/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml

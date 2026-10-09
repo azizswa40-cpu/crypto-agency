@@ -1,0 +1,5 @@
+# UTC times — signals blocked +/- 30 min around each event
+# Format: YYYY-MM-DD HH:MM
+# Remplir chaque semaine depuis Trading Economics / Forex Factory
+# Exemples : CPI US, NFP, FOMC, ECB...
+# 2026-10-14 12:30
