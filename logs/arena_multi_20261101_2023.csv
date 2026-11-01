@@ -1,0 +1,13 @@
+strategy,trades,wr,pf,equity,ret_pct,cagr,dd_pct,symbol
+Momentum Breakout,6,33.3,1.2,10129.6,1.3,1.2,-20.6,BTCUSDT
+EMA50/200 + ADX,1,0.0,0.0,9880.75,-1.2,-1.1,0.0,BTCUSDT
+Buy & Hold,1,0.0,0.0,6860.65,-31.4,-29.2,0.0,BTCUSDT
+Mean Reversion,5,0.0,0.0,6115.85,-38.8,-36.2,-38.8,BTCUSDT
+Momentum Breakout,6,33.3,1.13,9806.84,-1.9,-1.8,-28.2,ETHUSDT
+EMA50/200 + ADX,1,0.0,0.0,9305.04,-6.9,-6.4,-6.9,ETHUSDT
+Buy & Hold,1,0.0,0.0,5462.27,-45.4,-42.5,0.0,ETHUSDT
+Mean Reversion,8,12.5,0.36,4717.95,-52.8,-49.7,-64.9,ETHUSDT
+EMA50/200 + ADX,1,0.0,0.0,9662.41,-3.4,-3.1,0.0,SOLUSDT
+Momentum Breakout,6,16.7,0.65,7734.5,-22.7,-21.0,-29.1,SOLUSDT
+Mean Reversion,7,14.3,0.45,5594.57,-44.1,-41.2,-59.1,SOLUSDT
+Buy & Hold,1,0.0,0.0,4548.02,-54.5,-51.4,0.0,SOLUSDT
